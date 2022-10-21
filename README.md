@@ -49,12 +49,12 @@ de una cuadrícula incompleta que se acepta como una lista 'Lista1'.
 
 Un conjunto de reglas se muestra a continuación:
 
-a)	Verificar Rango de la Lista1: para todo elemento de Lista1 debe estar en el rango de 1 a 4. 
-b)	Lista1: si existen elementos no instanciados en Lista1 asignar un número del 1 a 4. 
-c)	Verificar Fila: comprobación para toda fila n, si todos los elementos son diferentes. Si no son diferentes, volver a regla b) y probar con otra rama.  
-d)	Verificar columna: análogo al paso anterior pero comprobar para toda columna
-e)	Verificar bloque: análogo al paso anterior pero comprobar para todo bloque
-f)	Secuenciación correcta: no se da el caso que quede ningún número repetido dentro de una fila, columna y bloque. 
+1. Verificar Rango de la Lista1: para todo elemento de Lista1 debe estar en el rango de 1 a 4. 
+2. Lista1: si existen elementos no instanciados en Lista1 asignar un número del 1 a 4. 
+3. Verificar Fila: comprobación para toda fila n, si todos los elementos son diferentes. Si no son diferentes, volver a regla 2) y probar con otra rama.  
+4. Verificar columna: análogo al paso anterior pero comprobar para toda columna
+5. Verificar bloque: análogo al paso anterior pero comprobar para todo bloque
+6. Secuenciación correcta: no se da el caso que quede ningún número repetido dentro de una fila, columna y bloque. 
 
 ---
 
