@@ -55,8 +55,8 @@ c)	Verificar Fila: comprobación para toda fila n, si todos los elementos son di
 d)	Verificar columna: análogo al paso anterior pero comprobar para toda columna
 e)	Verificar bloque: análogo al paso anterior pero comprobar para todo bloque
 f)	Secuenciación correcta: no se da el caso que quede ningún número repetido dentro de una fila, columna y bloque. 
----
 
+---
 
 1.3 Fases de ejecución en Prolog
 ==========
